@@ -1,4 +1,4 @@
-### 👋 Myung Ki You
+### 👋 Myung Ki You **(ymkmoon@naver.com)**
 
 <!--
 **ymkmoon/ymkmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,3 +57,8 @@ Here are some ideas to get you started:
     - AWS
     - Azure
 
+<hr>
+
+💬 How to reach me
+
+  **ymkmoon@naver.com** on E-mail
