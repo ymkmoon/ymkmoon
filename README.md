@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Myung Ki You
 
 <!--
 **ymkmoon/ymkmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- profile viewers count -->
+<div align=center>
+
+![](https://komarev.com/ghpvc/?username=ymkmoon&color=brightgreen)
+
+</div>
+
+<!-- Github Stats -->
+[![ymkmoon's github stats](https://github-readme-stats.vercel.app/api?username=ymkmoon)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ymkmoon&layout=compact)](https://github.com/ymkmoon/github-readme-stats)
+
+<hr>
+
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white"/>
@@ -31,4 +45,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
 </p>
+
 
