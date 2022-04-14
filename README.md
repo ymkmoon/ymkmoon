@@ -47,6 +47,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
   </p>
 
+<hr>
+
 ### 🌱 I’m currently learning
 - **Backend**
     - Java
