@@ -50,12 +50,10 @@ Here are some ideas to get you started:
 <hr>
 
 ### 🌱 I’m currently learning
-- **Backend**
-    - Java
-    - Linux
-- **CI/CD**
-    - AWS
-    - Azure
+- Java
+- Linux
+- AWS
+- Azure
 
 <hr>
 
