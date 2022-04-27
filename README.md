@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### 🔭 I’m currently working on 
+### 🔭 Stack
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white"/>
