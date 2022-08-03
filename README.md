@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=ymkmoon&color=brightgreen)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fymkmoon&count_bg=%23BDBDBD&title_bg=%238C8C8C&icon=&icon_color=%23BDBDBD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fymkmoon&count_bg=%23BDBDBD&title_bg=%238C8C8C&icon=&icon_color=%23BDBDBD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 </div>
 
