@@ -1,4 +1,4 @@
-### 👋 Myung Ki You **(ymkmoon@naver.com)**
+### 👋 유명기 **(ymkmoon@naver.com)**
 
 <!--
 **ymkmoon/ymkmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,12 +55,34 @@ Here are some ideas to get you started:
 
 <hr> -->
 
-### 🌱 I’m currently learning
-- Java
-- Linux
-- AWS
-- Azure
-- React
+## 기술스택
+### 🖥️ **백엔드**
+- **Java**  
+  JPA와 MyBatis를 활용한 RESTful API 개발 경험
+- **Node.js**  
+  Express 기반의 서버 구축 및 GraphQL API 개발
+
+### 🧱 데이터베이스
+- **PostgreSQL**, **MySQL**  
+  복잡한 쿼리 작성 및 성능 튜닝 경험 보유
+
+### 🖼️ 프론트엔드
+- **React**  
+  상태 관리 및 컴포넌트 기반 UI 개발
+
+### ☁️ 클라우드 & DevOps
+- **AWS**  
+  EC2, S3, CodeDeploy를 활용한 인프라 구성 및 자동 배포
+- **Docker**  
+  개발 환경 컨테이너화 및 배포 자동화 경험
+- **Jenkins**  
+  CI/CD 파이프라인 구축 및 운영
+- **Nginx**  
+  정적 파일 서빙 및 리버스 프록시 설정 경험
+
+### 🧑‍💻 운영체제
+- **Linux**  
+  CentOS, Rocky Linux, Ubuntu 환경에서의 서버 운영 및 쉘 스크립트 작성 경험
 
 <hr>
 
