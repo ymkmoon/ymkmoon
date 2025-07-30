@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>국가연구과제</strong> <span style="color:#6a737d;">(2023.07 - 2023.11)</span> - Frontend & Backend / Spring Boot</summary>
+<summary><strong>국가연구과제</strong> <span style="color:#6a737d;">(2023.07 - 2023.11)</span> - Backend & Frontend / Spring Boot</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
