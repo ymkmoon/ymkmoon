@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Github Stats -->
-[![ymkmoon's github stats](https://github-readme-stats.vercel.app/api?username=ymkmoon&count_private=true&show_icons=true)](https://github.com/ymkmoon/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ymkmoon&layout=compact&langs_count=10&hide=css,scss)](https://github.com/ymkmoon/github-readme-stats)
+<!-- [![ymkmoon's github stats](https://github-readme-stats.vercel.app/api?username=ymkmoon&count_private=true&show_icons=true)](https://github.com/ymkmoon/github-readme-stats) -->
+<!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ymkmoon&layout=compact&langs_count=10&hide=css,scss)](https://github.com/ymkmoon/github-readme-stats) -->
 
 <hr>
 
