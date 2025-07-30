@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 </details>
 
 
+<!--
 ## 경력
 
 <details>
@@ -214,6 +215,7 @@ Here are some ideas to get you started:
 
 </details>
 
+-->
 
 <hr>
 
