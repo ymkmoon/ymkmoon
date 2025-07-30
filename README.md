@@ -1,4 +1,4 @@
-### 👋 유명기 **(ymkmoon@naver.com)**
+### 👋 유명기 
 
 <!--
 **ymkmoon/ymkmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
