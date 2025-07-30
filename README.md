@@ -97,6 +97,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-💬 How to reach me
-
-  **ymkmoon@naver.com** on E-mail
+💬 연락처
+ * Email : [ymkmoon@naver.com](mailto:ymkmoon@naver.com)
+ * Git : [https://github.com/ymkmoon](https://github.com/ymkmoon)
+ * Blog : [https://ymkmoon.github.io/](https://ymkmoon.github.io/)
