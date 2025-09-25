@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 <details>
 <summary>🧱 <strong>데이터베이스</strong></summary>
 
-- **PostgreSQL**, **MySQL**  
-  복잡한 쿼리 작성 및 성능 튜닝 경험 보유
+- **PostgreSQL**
+- **MySQL**  
 
 </details>
 
