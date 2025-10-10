@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 |----------------|----------------------------------------------------------------------------------------|
 | 📅 프로젝트 설명 | 실내 측위 데이터를 이용해 원하는 위치의 예상 값을 계산(보간 처리)하여 제공하는 서비스                                |
 | 🎯 담당분야      | Frontend, Backend                                                                      |
-| 🛠️ 사용기술      | <code>Spring Boot</code>, <code>Java</code>, <code>React</code>, <code>Typescript</code>, <code>MongoDB</code>, <code>JPA</code>, <code>Querydsl</code> |
+| 🛠️ 사용기술      | <code>Springboot</code>, <code>Java</code>, <code>React</code>, <code>Typescript</code>, <code>MongoDB</code>, <code>JPA</code>, <code>Querydsl</code> |
 | 📝 업무내용      | 실내 측위 데이터 시각화 및 정제, 좌표계 변환과 IDW 보간법을 이용한 데이터 제공                                       |
 
 </details>
@@ -187,7 +187,7 @@ Here are some ideas to get you started:
 |----------------|----------------------------------------------------------------------------------------|
 | 📅 프로젝트 설명 | 일본 내 열차 예약 서비스                                                                |
 | 🎯 담당분야      | Backend, Frontend                                                                     |
-| 🛠️ 사용기술      | <code>Java</code>, <code>JSP</code>, <code>Spring Boot</code>, AWS Cognito                                      |
+| 🛠️ 사용기술      | <code>Java</code>, <code>JSP</code>, <code>Springboot</code>, AWS Cognito                                      |
 | 📝 업무내용      | AWS Cognito 기반 유저 관리, 특급 열차 티켓 변경 및 환불 개발                                         |
 
 </details>
@@ -210,7 +210,7 @@ Here are some ideas to get you started:
 |----------------|----------------------------------------------------------------------------------------|
 | 📅 프로젝트 설명 | 일본 내 열차 예약 서비스                                                                |
 | 🎯 담당분야      | Backend, Frontend                                                                     |
-| 🛠️ 사용기술      | <code>Java</code>, <code>JSP</code>, <code>Spring Boot</code>, AWS Cognito, Javascript                       |
+| 🛠️ 사용기술      | <code>Java</code>, <code>JSP</code>, <code>Springboot</code>, AWS Cognito, Javascript                       |
 | 📝 업무내용      | AWS Cognito 기반 유저 관리, 열차 티켓 예약, 구매, 마이페이지 개발                                              |
 
 </details>
