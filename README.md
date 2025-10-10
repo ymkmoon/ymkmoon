@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 ## 경력
 
 <details>
-<summary><strong>데이터통합서비스 플랫폼</strong> <span style="color:#6a737d;">(2025.07 ~)</span> - Backend / NodeJS</summary>
+<summary><strong>데이터통합서비스 플랫폼</strong> <span style="color:#6a737d;">(2025.07 ~)</span> - Backend (NodeJS)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>차량관제 FMS</strong> <span style="color:#6a737d;">(2024.01 - 2025.06)</span> - Frontend / React</summary>
+<summary><strong>차량관제 FMS</strong> <span style="color:#6a737d;">(2024.01 - 2025.06)</span> - Frontend (React)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>국가연구과제</strong> <span style="color:#6a737d;">(2023.07 - 2023.11)</span> - Backend & Frontend / Spring Boot</summary>
+<summary><strong>국가연구과제</strong> <span style="color:#6a737d;">(2023.07 - 2023.11)</span> - Backend (Springboot) & Frontend (React)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>Mobility Service 2차</strong> <span style="color:#6a737d;">(2023.05 - 2023.07)</span> - Frontend / React</summary>
+<summary><strong>Mobility Service 2차</strong> <span style="color:#6a737d;">(2023.05 - 2023.07)</span> - Frontend (React)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>Car Sharing</strong> <span style="color:#6a737d;">(2023.04 - 2023.05)</span> - Frontend / React</summary>
+<summary><strong>Car Sharing</strong> <span style="color:#6a737d;">(2023.04 - 2023.05)</span> - Frontend (React)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>상권분석 시스템</strong> <span style="color:#6a737d;">(2022.12 - 2023.04)</span> - Backend & Frontend / Java</summary>
+<summary><strong>상권분석 시스템</strong> <span style="color:#6a737d;">(2022.12 - 2023.04)</span> - Backend (Spring) & Frontend (JSP)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -157,7 +157,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>3D Camera Viewer</strong> <span style="color:#6a737d;">(2022.11 - 2022.12)</span> - Frontend / Javascript</summary>
+<summary><strong>3D Camera Viewer</strong> <span style="color:#6a737d;">(2022.11 - 2022.12)</span> - Frontend (Javascript)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -169,7 +169,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>Mobility Service 1차</strong> <span style="color:#6a737d;">(2022.05 - 2022.11)</span> - Frontend / React</summary>
+<summary><strong>Mobility Service 1차</strong> <span style="color:#6a737d;">(2022.05 - 2022.11)</span> - Frontend (React)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -181,7 +181,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>Maas (열차 예약 시스템) 2차</strong> <span style="color:#6a737d;">(2021.12 - 2022.05)</span> - Backend & Frontend / Java</summary>
+<summary><strong>Maas (열차 예약 시스템) 2차</strong> <span style="color:#6a737d;">(2021.12 - 2022.05)</span> - Backend (Springboot) & Frontend (JSP)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -193,7 +193,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>차량관제 고도화</strong> <span style="color:#6a737d;">(2021.09 - 2021.12)</span> - Backend & Frontend / Java</summary>
+<summary><strong>차량관제 고도화</strong> <span style="color:#6a737d;">(2021.09 - 2021.12)</span> - Backend (Spring) & Frontend (JSP)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -204,7 +204,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>Maas (열차 예약 시스템) 1차</strong> <span style="color:#6a737d;">(2021.04 - 2021.10)</span> - Backend & Frontend / Java</summary>
+<summary><strong>Maas (열차 예약 시스템) 1차</strong> <span style="color:#6a737d;">(2021.04 - 2021.10)</span> - Backend (Spring) & Frontend (JSP)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
