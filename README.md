@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - **Java**  
   JPA와 MyBatis를 활용한 RESTful API 개발 경험  
-- **Node.js**  
+- **Nodejs**  
   Express 기반의 서버 구축 및 GraphQL API 개발
 - **MQTT**  
   IoT 및 실시간 메시징 프로토콜 경험  
