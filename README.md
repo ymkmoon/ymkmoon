@@ -91,7 +91,19 @@ Here are some ideas to get you started:
 ## 경력
 
 <details>
-<summary><strong>Form Editor & Code Editor</strong> <span style="color:#6a737d;">(2025.11 - 2026.01)</span> - Backend (NodeJS)</summary>
+<summary><strong>IoT 기반 탐사 관제</strong> <span style="color:#6a737d;">(2025.11 - 2026.01)</span> - Backend (NodeJS)</summary>
+
+| 구분           | 내용                                                                                   |
+|----------------|----------------------------------------------------------------------------------------|
+| 📅 프로젝트 설명 | 실시간 로봇 데이터 수집 및 탐사 예약/관제를 위한 통합 백엔드 시스템 개발                                            |
+| 🎯 담당분야      | Backend 개발 및 IoT 데이터 인프라 구축                                                               |
+| 🛠️ 사용기술      | <code>Kafka</code>, <code>MQTT</code>, <code>Nodejs</code>, <code>Mongodb</code>, <code>PostgreSQL</code>              |
+| 📝 업무내용      | 실시간 데이터 파이프라인 구축:</b> MQTT로 수집된 IoT 데이터를 Kafka Connector를 통해 MongoDB에 안정적으로 적재하는 파이프라인 설계 및 운영                   |
+
+</details>
+
+<details>
+<summary><strong>Form Editor & Code Editor</strong> <span style="color:#6a737d;">(2025.11 - 2026.01)</span> - Backend (golang)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
