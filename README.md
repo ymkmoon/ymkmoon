@@ -86,12 +86,12 @@ Here are some ideas to get you started:
 
 </details>
 
-
 <!--
+
 ## 경력
 
 <details>
-<summary><strong>IoT 기반 탐사 관제</strong> <span style="color:#6a737d;">(2025.11 - 2026.01)</span> - Backend (NodeJS)</summary>
+<summary><strong>IoT 기반 탐사 관제</strong> <span style="color:#6a737d;">(2026.01 ~ )</span> - Backend (NodeJS)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
@@ -245,6 +245,7 @@ Here are some ideas to get you started:
 </details>
 
 -->
+
 
 <hr>
 
