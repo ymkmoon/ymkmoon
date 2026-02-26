@@ -103,11 +103,11 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><strong>데이터통합서비스 플랫폼</strong> <span style="color:#6a737d;">(2025.07 - 2025.11)</span> - Backend (NodeJS)</summary>
+<summary><strong>상수도관 점검 플랫폼</strong> <span style="color:#6a737d;">(2025.07 - 2025.11)</span> - Backend (NodeJS)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
-| 📅 프로젝트 설명 | 각 업무에 대한 결과 입력 및 업무 싸이클을 통한 자동 생성                                            |
+| 📅 프로젝트 설명 | 상수도관 관련 각 업무에 대한 결과 입력 및 업무 싸이클을 통한 자동 생성                                            |
 | 🎯 담당분야      | Backend, 인프라 관리, DB 설계                                                               |
 | 🛠️ 사용기술      | <code>NodeJS</code>, <code>GraphQL</code>, <code>Docker</code>, <code>Nginx</code>              |
 | 📝 업무내용      | CRUD API 개발, 스케줄러 개발, 초기스크립트 정리, 도커를 이용한 이미지 생성과 컨테이너 실행                    |
