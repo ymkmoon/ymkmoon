@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 <summary>🧱 <strong>데이터베이스</strong></summary>
 
 - **PostgreSQL**
-- **MySQL**  
+- **MySQL**
+- **Mongodb**  
 
 </details>
 
