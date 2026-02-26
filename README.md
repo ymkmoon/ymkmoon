@@ -91,12 +91,24 @@ Here are some ideas to get you started:
 ## 경력
 
 <details>
-<summary><strong>데이터통합서비스 플랫폼</strong> <span style="color:#6a737d;">(2025.07 ~)</span> - Backend (NodeJS)</summary>
+<summary><strong>Form Editor & Code Editor</strong> <span style="color:#6a737d;">(2025.11 - 2026.01)</span> - Backend (NodeJS)</summary>
+
+| 구분           | 내용                                                                                   |
+|----------------|----------------------------------------------------------------------------------------|
+| 📅 프로젝트 설명 | 원격 코드 실행 및 MongoDB 관리                                            |
+| 🎯 담당분야      | Backend                                                               |
+| 🛠️ 사용기술      | <code>gRPC</code>, <code>Golang</code>, <code>Docker</code>, <code>Mongodb</code>              |
+| 📝 업무내용      | Docker 를 이용한 코드 원격 실행 프로세스 개발 및 gRPC 기반 Meta/Data API 설계·구현 (컬렉션, 문서 CRUD, 기본 도큐먼트, Time-Series 지원 등)                    |
+
+</details>
+
+<details>
+<summary><strong>데이터통합서비스 플랫폼</strong> <span style="color:#6a737d;">(2025.07 - 2025.11)</span> - Backend (NodeJS)</summary>
 
 | 구분           | 내용                                                                                   |
 |----------------|----------------------------------------------------------------------------------------|
 | 📅 프로젝트 설명 | 각 업무에 대한 결과 입력 및 업무 싸이클을 통한 자동 생성                                            |
-| 🎯 담당분야      | Backend, 인프라 관리, DB 구성                                                               |
+| 🎯 담당분야      | Backend, 인프라 관리, DB 설계                                                               |
 | 🛠️ 사용기술      | <code>NodeJS</code>, <code>GraphQL</code>, <code>Docker</code>, <code>Nginx</code>              |
 | 📝 업무내용      | CRUD API 개발, 스케줄러 개발, 초기스크립트 정리, 도커를 이용한 이미지 생성과 컨테이너 실행                    |
 
