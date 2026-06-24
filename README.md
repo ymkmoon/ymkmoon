@@ -91,6 +91,30 @@ Here are some ideas to get you started:
 ## 경력
 
 <details>
+<summary><strong>IoT 기반 탐사 관제 2차</strong> <span style="color:#6a737d;">(2026.01 ~ )</span> - Backend (NodeJS)</summary>
+
+| 구분           | 내용                                                                                   |
+|----------------|----------------------------------------------------------------------------------------|
+| 📅 프로젝트 설명 | 실시간 로봇 데이터 수집 및 탐사 예약/관제를 위한 통합 백엔드 시스템 개발                                            |
+| 🎯 담당분야      | Backend 개발 및 IoT 데이터 인프라 구축                                                               |
+| 🛠️ 사용기술      | <code>Kafka</code>, <code>MQTT</code>, <code>Nodejs</code>, <code>Mongodb</code>, <code>PostgreSQL</code>              |
+| 📝 업무내용      | 플랫폼화를 위한 SQL 성능개선 및 기능별 CRUD API 개발                   |
+
+</details>
+
+<details>
+<summary><strong>주차장 관제 플랫폼</strong> <span style="color:#6a737d;">(2026.01 ~ )</span> - Backend (NodeJS)</summary>
+
+| 구분           | 내용                                                                                   |
+|----------------|----------------------------------------------------------------------------------------|
+| 📅 프로젝트 설명 | 실시간 차량 추적 데이터 수집 및 주차 현황·영상 관제를 위한 통합 백엔드 시스템 개발                                             |
+| 🎯 담당분야      | Backend 개발 및 실시간 데이터 인프라 구축                                                               |
+| 🛠️ 사용기술      | <code>Node.js</code>, <code>GraphQL</code>, <code>WebSocket</code>, <code>Mongodb</code>, <code>PostgreSQL</code>               |
+| 📝 업무내용      | • <b>실시간 데이터 파이프라인 구축:</b> RabbitMQ 기반 Dispatcher–Worker 구조를 설계하여 수집된 차량 추적 데이터를 분기·처리하고 MongoDB에 안정적으로 적재하는 파이프라인 운영<br>• <b>실시간 관제 API 개발:</b> GraphQL(Apollo) Subscription과 Redis Pub/Sub을 연동하여 주차 현황·차량 위치를 관제 대시보드에 실시간 푸시하는 API 설계 및 구현<br>• <b>실시간 영상 스냅샷 인프라:</b> WebSocket 기반 카메라 스냅샷 세션 오케스트레이션 구축, Redis 분산 락 및 Pub/Sub으로 다중 클라이언트 동시 요청의 중복·경합 제어<br>• <b>이상 상황 자동 탐지 및 알림:</b> 수집 데이터 기반 이상 이벤트(화재·사고 등)를 비동기 Worker로 탐지·분기 처리하고 실시간 알림을 발송하는 기능 구현 |
+
+</details>
+
+<details>
 <summary><strong>IoT 기반 탐사 관제</strong> <span style="color:#6a737d;">(2026.01 ~ )</span> - Backend (NodeJS)</summary>
 
 | 구분           | 내용                                                                                   |
